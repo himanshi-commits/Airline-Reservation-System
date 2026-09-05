@@ -7,7 +7,6 @@ import datetime
 
 DB_NAME = "arsdb.db"
 
-# In-memory storage (as per Class 12 syllabus)
 ep = {}  # stores email-password pairs
 bookings = {}  # stores all bookings with email as key
 
